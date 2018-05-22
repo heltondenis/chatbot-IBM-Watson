@@ -7,11 +7,11 @@ error_reporting(E_ALL);
 header("Content-Type: text/plain");
 
 //Worskspace
-$workspace = "6b96df58-c04a-4f51-9611-c2e284921481";
+$workspace = "Digite o ID do seu Workspace";
 
 //Dados de Login
-$username = "eb934e4e-c140-4676-ae19-4f3ad04a724a";
-$password = "2Lri218bkKAN";
+$username = "Seu usuário da API";
+$password = "Sua senha da API";
 
 //Capturar Texto
 //Use $_POST em produção, por segurança
